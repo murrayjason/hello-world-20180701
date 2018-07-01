@@ -43,4 +43,4 @@ That looks as though switching for the first time to the new branch, in my local
   readme-edits
 ```
 
-
+Now experimenting with performing a merge locally and then propagating it up to GitHub.
